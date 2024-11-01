@@ -1,0 +1,11 @@
+msgid "Save"
+msgstr ""
+
+msgid "Shared SSL"
+msgstr ""
+
+msgid "URL of Shared SSL"
+msgstr ""
+
+msgid "Your setting has been saved"
+msgstr ""
